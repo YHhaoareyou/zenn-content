@@ -8,6 +8,8 @@ published: true
 
 # はじめに
 
+初めてのZennの記事です。よろしくお願いします！
+
 ## Mozilla Hubsとは
 
 ブラウザFirefoxで有名なMozilla社が開発したソーシャルWebVRサービスであり、PCからもVRデバイスからもブラウザを開いてアクセスできます。しかもオープンソース！
