@@ -3,7 +3,7 @@ title: "Mozilla Hubs Cloudをローカル（M1搭載Macbook）で実行してみ
 emoji: "🦆"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Mozilla Hubs", "Hubs Cloud", "WebXR", "VR"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -453,3 +453,4 @@ Hubsのホームページ[https://localhost:4000](https://localhost:4000)から�
 
 Mozilla Hubsについてまた他の記事を書くかもしれません（どこかにデプロイするとか、どれかのコンポーネントを置き換えてみるとか）。
 XR（主にVRかな）に関連する他の記事もこれから書かせていただく予定です！
+またよろしくお願いします。
