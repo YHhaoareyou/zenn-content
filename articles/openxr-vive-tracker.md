@@ -2,7 +2,7 @@
 title: "OpenXRを使ったUnity XRプロジェクトでViveトラッカーを使う"
 emoji: "🐯"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Unity", "OpenXR", "SteamVR", "HTC Vive", "Vive Tracker", "VR", "XR"]
+topics: ["Unity", "OpenXR", "HTC Vive Tracker", "VR", "XR"]
 published: true
 ---
 
